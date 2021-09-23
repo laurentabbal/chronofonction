@@ -6,7 +6,7 @@ setup(
     author='Laurent Abbal',
     author_email='laurent@abbal.com',
     packages=['chronofonction'],
-    install_requires=['time'],
+    install_requires=[''],
     version='0.1',
     license='MIT',
     description='Mesure du temps d\'execution d\'une fonction',
